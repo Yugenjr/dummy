@@ -14,8 +14,8 @@ During our research, we spoke with a gig worker from Haryana who luckily got con
 1. **“We do get incentives sometimes, but not when we actually need them.”**  
    Payouts are often delayed or misaligned with the real moment of income loss.
 
-2. **“Fake claims happen in many ways — how will you prevent that?”**  
-   Fraud isn’t rare — it’s expected.
+2. **“Fake claims happen in many ways.. how will you prevent that?”**  
+   Fraud isn’t rare! it’s expected.
 
    The third question hit harder than everything else.
    
@@ -31,24 +31,7 @@ During our research, we spoke with a gig worker from Haryana who luckily got con
 - **Trust and clarity over jargon**
 - **Payouts aligned with real-world impact**
 
-That’s how **QuickClaim** evolved — built for real users, not assumptions.
+That’s how **QuickClaim** evolved.. built for real users, not assumptions.
 
 ---
 
-
-
-
-
-## ⚙️ What It Does
-
-**QuickClaim** is an AI-powered parametric insurance platform for gig workers that:
-
-- Monitors **external disruptions** (weather, environment, shutdowns)
-- Predicts **income risk** dynamically 
-- Triggers **automatic claims** when conditions match predefined thresholds
-- Processes **instant payouts** — no paperwork, no manual claims
-
-```javascript
-if (rainfall > threshold && activeHours < expectedHours) {
-  triggerPayout(user);
-}
