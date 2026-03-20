@@ -97,6 +97,6 @@ Regarding the market clash... (hope we escape it 😄).. we have added a dedicat
 and for which navigation is given in readme too.. 
 
 
------------------------------------------------ ** Team Detroit - We argue , we debug , we deliver !! ** ---------------------------------------------------
+-----------------------------------------------  Team Detroit - We argue , we debug , we deliver !!  ------------------------------------------------
 
 
