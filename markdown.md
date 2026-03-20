@@ -87,6 +87,8 @@ Ensuring **low-latency trigger evaluation** while maintaining accuracy was a key
   Pricing based on how each user actually works
 - Building a more advanced admin dashboard  
   To track users, risks, and claims in real time
+Improving performance, reliability, and overall efficiency of the system at production levels..
+
 
 And Yeah that's our phase 1 Journey in a nutshell ! a few things to convey from our side:
 
@@ -96,8 +98,6 @@ and for which navigation is given in readme too..
 
 
 ## Team Detroit - We argue , we debug , we deliver !! 
-  
-  Improving performance, reliability, and overall efficiency of the system at production levels.. 
-  
+
 ---
 
